@@ -77,8 +77,7 @@ Após a simulação, a IA gerou um diagnóstico de prontidão para a vaga.
 ---
 
 ## 🔗 Conecte-se comigo
-* **LinkedIn:** [Seu Link Aqui]
-* **GitHub:** [Seu Link Aqui]
+* **LinkedIn:** https://www.linkedin.com/in/fernando-fischer-1990/
 
 ---
 *Este projeto faz parte do meu processo de especialização em Gestão de Produtos de IA pela DIO.*
